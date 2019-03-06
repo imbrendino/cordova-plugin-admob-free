@@ -68,7 +68,6 @@ You can use this Cordova plugin for free unless you are earning a lot.
 
 While the Ionic community have provided [an Ionic Native Plugin](https://ionicframework.com/docs/native/admob-free/), plugin users need more examples and tutorials.
 
-As I ([@ratson](https://github.com/ratson)) don't use Ionic myself, it would be great if some experienced Ionic developers could help answering questions or come up with more examples. HELP WANTED HERE.
 
 ## Credits
 
